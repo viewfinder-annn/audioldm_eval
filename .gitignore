@@ -17,3 +17,4 @@ dist
 *.pkl
 pickle_check.py
 test.py
+test_musiccaps/*
